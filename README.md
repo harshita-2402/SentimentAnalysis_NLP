@@ -14,5 +14,6 @@ Multi class classification of 6 emotions -
   5. Fear
   6. Love
 
+![Emotions image](/assets/images/emotions.jpg)
 ### Acuracy from BiLSTM Model: 
 ## **74.83%**
