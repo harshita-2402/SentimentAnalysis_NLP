@@ -15,3 +15,4 @@ Multi class classification of 6 emotions -
   6. Love
 
 ### Acuracy from BiLSTM Model: 
+## **70.14%**
